@@ -1,0 +1,37 @@
+2.6: 1.A engenharia de software nos fará criar pouca documentação, quase inexistente e desnecessária, pois apenas entregar o software em
+funcionamento basta, sem métodos documentativos.
+2. Seguir fielmente um método de desenvolvimento de software fará com que o software criado funcione perfeitamente e seja entregue na data
+prevista. 
+
+
+4.6 : Sim, é possível combinar modelos de processo de software. Por exemplo é possível usar o método de reutilização de um software
+no processo incremental. A pessoa reutiliza o software, porém já o disponibiliza para o usuário/cliente e tem constante feedback do 
+cliente, porém o desenvolvedor terá que lidar com ambos os pontos negativos desses processos, como encaixar o software reutilizado no 
+projeto e ter em mente que a produção de um software no metodo incremental acarreta em um não atualizamento do software ao longo dos anos,
+não é um software que possa ser usado a longa data.
+
+5.7 : Pois nem sempre o que o usuário/cliente quer é o software ideal, ele pode dar as especificações que ao longo do desenvolvimento
+não se encaixem, então o desenvolvedor deve executar da melhor forma possível algo parecido. Também existe o caso em que as necessidades
+do cliente/usuário mudam, se no método de desenvolvimento em que eu escolhi permite que o cliente tenha acesso antecipado ao software e
+durante o uso do mesmo, o software não mais se encaixa as necessidades do cliente, é preciso fazer modificações no projeto. Dependendo do 
+modelo de desenvolvimento de software escolhido, a mudança será mais facilmente executada. Como por exemplo a comparação entre o modelo 
+cascata e o modelo evolutivo. No metodo de desenvolvimento em cascata as mudanças repentinas de meio ou final de projeto atrapalham muito 
+e são dificeis de serem executadas, já no método evolutivo, o projeto se adapta as necessidades do cliente, as mudanças dele ao longo do
+projeto.
+
+6.7: Seriam as entregas sempre na data prevista, para o cliente sempre estar sabendo do desenvolvimento do software e para ele poder se
+comunicar, ou seja, caso mudanças sejam necessárias, elas sejam feitas assim que possível. As entregas ao cliente permitem total ciência 
+do que está acontecendo, do desenvolvimento e da confiabilidade da equipe, de que quando ele precisar do software funcionando, não será
+deixado na mão ou com um software de baixa qualidade.
+
+7.10: Os modelos são importantes porque eles ajudam a guiar a equipe no desenvolvimento do software, e ele será escolhido com base nas
+necessidades da equipe juntamente com as necessidades do cliente. Será escolhido o método que melhor se adapta ao projeto. Não são sempre 
+necessários, pois se uma pessoa deseja realizar uma produção pequena para sí, ela pode produzir do jeito que quiser e achar melhor, porém
+quando se trata de uma produção rápida para um cliente, de um software que precisa ter suas funcionalidades no MINIMO BOAS, então é melhor
+aderir a um metodo de desenvolvimento para garantir alguma qualidade ao menos. Sim, pois depende da situação em que se pede o desenvolvimento
+do software, então sempre é preciso analisar sempre esse espectro de necessidade do cliente para saber qual metodo ser utilizado no projeto dele.
+Em um projeto para um cliente acredito sim na necessidade de sempre utilizar um metodo de produção de software, para garantir qualidade como dito
+anteriormente.
+
+10.7: a analise de pacote serve para garantir que todos os dados da aplicação sejam enviados/recebidos. A análise é para checar se há algum
+possível erro a ser corrigido.
